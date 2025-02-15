@@ -46,7 +46,6 @@ return 0;
 </p>
 
 
-![GitHub metrics](https://camo.githubusercontent.com/4afb0b4b98e42986e54d09c59ee44093aa1f20677fb1a308f9687971b78526e4/68747470733a2f2f6d6574726963732e6c65636f712e696f2f6572646c696e676368656e)
 
 lol bye.
 
